@@ -1,0 +1,12 @@
+HTML
+<!DOCTYPE html>
+<html>
+<head>
+<title>サンプル</title>
+</head>
+<body>
+<script>
+document.write("Hello world!!");
+</script>
+</body>
+</html>
